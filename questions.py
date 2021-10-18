@@ -27,7 +27,8 @@ questions = {
     2: {
         'type': 'multi',
         "topic": "literature",
-        "question": "Which of these letters is not usually written without taking the pen off of the paper?",
+        "question":
+        "Which of these letters is not usually written without taking the pen off of the paper?",
         "option1": 'P',
         "option2": 'K',
         "option3": 'W',
@@ -392,7 +393,8 @@ questions = {
     55: {
         'type': 'multi',
         'topic': 'lesiure',
-        'question': 'Which of these sports was removed from the Olympics after 2008?',
+        'question':
+        'Which of these sports was removed from the Olympics after 2008?',
         'option1': 'Softball',
         'option2': 'Netball',
         'option3': 'Handball',
@@ -401,7 +403,8 @@ questions = {
     56: {
         'type': 'memory',
         'topic': 'history',
-        'question': 'Which figure of Greek mythology is often depicted supporting the Earth on his shoulders?',
+        'question':
+        'Which figure of Greek mythology is often depicted supporting the Earth on his shoulders?',
         'answer': 'Atlas'
     },
     57: {
@@ -416,7 +419,8 @@ questions = {
     58: {
         'type': 'true',
         'topic': 'entertainment',
-        'question': 'Leonardo DaVinci painted the ceiling of the Sistine Chapel.',
+        'question':
+        'Leonardo DaVinci painted the ceiling of the Sistine Chapel.',
         'answer': 'False'
     },
     59: {
@@ -431,13 +435,15 @@ questions = {
     60: {
         'type': 'memory',
         'topic': 'geography',
-        'question': 'What country has the westernmost point of mainland Europe?',
+        'question':
+        'What country has the westernmost point of mainland Europe?',
         'answer': 'Portugal'
     },
     61: {
         'type': 'memory',
         'topic': 'entertainment',
-        'question': 'In the Star Wars films what colour was Mace Windu\'s lightsaber?',
+        'question':
+        'In the Star Wars films what colour was Mace Windu\'s lightsaber?',
         'answer': 'Purple'
     },
     62: {
@@ -455,10 +461,135 @@ questions = {
     64: {
         'type': 'multi',
         'topic': 'literature',
-        'question': 'Silky, Moonface and the Saucepan Man are characters in who\'s books?',
+        'question':
+        'Silky, Moonface and the Saucepan Man are characters in who\'s books?',
         'option1': 'Enid Blyton',
         'option2': 'Roald Dahl',
         'option3': 'Jill Murphy',
         'answer': 'Enid Blyton'
+    },
+    65: {
+        'type': 'true',
+        'topic': 'leisure',
+        'question': 'McDonalds Hong Kong offers on-site wedding packages.',
+        'answer': 'True'
+    },
+    66: {
+        'type': 'memory',
+        'topic': 'entertainment',
+        'question':
+        'In which musical does the cast sing about 525,600 minutes?',
+        'answer': 'Rent'
+    },
+    67: {
+        'type': 'multi',
+        'topic': 'history',
+        'question': 'Which era began first?',
+        'option1': 'Mesozoic',
+        'option2': 'Palaeozoic',
+        'option3': 'Cenozoic',
+        'answer': 'Palaeozoic'
+    },
+    68: {
+        'type': 'multi',
+        'topic': 'literature',
+        'question': 'Pupaphobia is the feat=r of what?',
+        'option1': 'Balloons',
+        'option2': 'Puppets',
+        'option3': 'Moths',
+        'answer': 'Puppets'
+    },
+    69: {
+        'type': 'memory',
+        'topic': 'science',
+        'question':
+        'The flowers of which kind of fruit are referred to as sakura?',
+        'answer': 'Cherry'
+    },
+    70: {
+        'type': 'true',
+        'topic': 'geography',
+        'question': 'If you live in Tahiti then you are a citizen of France.',
+        'answer': 'True'
+    },
+    71: {
+        'type': 'memory',
+        'topic': 'history',
+        'question':
+        'Which Roman god has two heads and is the god of beginnings and transitions?',
+        'answer': 'Janus'
+    },
+    72: {
+        'type': 'multi',
+        'topic': 'entertainment',
+        'question':
+        'For what kind of artwork is the French town of Lascaux famous?',
+        'option1': 'Sculptures',
+        'option2': 'Street art',
+        'option3': 'Cave paintings',
+        'answer': 'Cave paintings'
+    },
+    73: {
+        'type': 'memory',
+        'topic': 'science',
+        'question':
+        'What Greek philosopher is known for his paradoxes including one about a race between Achilles and a tortoise.',
+        'answer': 'Zeno'
+    },
+    74: {
+        'type': 'multi',
+        'topic': 'leisure',
+        'question': 'Where would you wear an ascot?',
+        'option1': 'On your head',
+        'option2': 'Around your waist',
+        'option3': 'Around your neck',
+        'answer': 'Around your neck'
+    },
+    75: {
+        'type': 'true',
+        'topic': 'history',
+        'question':
+        'Peterhouse was the first college to be founded at Oxford University',
+        'answer': 'False'
+    },
+    76: {
+        'type': 'multi',
+        'topic': 'literature',
+        'question':
+        'What name is given to a poem that is 14 lines long and often ends with a rhyming couplet?',
+        'option1': 'Limerick',
+        'option2': 'Sonnet',
+        'option3': 'Ode',
+        'answer': 'Sonnet'
+    },
+    77: {
+        'type': 'true',
+        'topic': 'entertainment',
+        'question': 'David Guetta is Spanish',
+        'answer': 'False'
+    },
+    78: {
+        'type': 'true',
+        'topic': 'science',
+        'question': 'A solar system is larger than a galaxy.',
+        'answer': 'False'
+    },
+    79: {
+        'type': 'multi',
+        'topic': 'leisure',
+        'question': 'Which of these foods would a pescetarian not eat?',
+        'option1': 'Salmon',
+        'option2': 'Chicken',
+        'option3': 'Peanuts',
+        'answer': 'Chicken'
+    },
+    80: {
+        'type': 'multi',
+        'topic': 'science',
+        'question': 'What rocks are the product of erosion?',
+        'option1': 'Igneous',
+        'option2': 'Metamorphic',
+        'option3': 'Sedimentary',
+        'answer': 'Sedimentary'
     }
 }
