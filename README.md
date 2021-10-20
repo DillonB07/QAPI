@@ -1,5 +1,8 @@
 # QAPI
 
+[![Repl Talk Badge](https://replit-badge.vercel.app/api?id=147167&style=gradient&theme=dark&replTalk=Repl%20Share)](https://replit.com/talk/share/Dizzle-v20-QAPI/147167)
+
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/DillonB07/QAPI?label=Stars&logo=github)
 
 QAPI is an API service that returns a random question for use in your applications!
