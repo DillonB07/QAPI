@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Website
+    url: https://qapi.ml/
+    about: Information about QAPI.
+  - name: Interactive Documentation
+    url: https://qapi-api.ml/docs
+    about: If you want to know about the endpoints come here.
+  - name: GitHub Discussions
+    url: https://github.com/DillonB07/QAPI/discussions
+    about: Ask and answer questions here.
