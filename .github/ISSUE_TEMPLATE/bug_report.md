@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve Dizzle
+about: Create a report to help us improve QAPI
 title: "[BUG] - What is the bug?"
 labels: bug
 assignees: DillonB07
