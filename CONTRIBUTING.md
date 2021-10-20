@@ -3,7 +3,8 @@
 If you want to contribute a question there are three ways!
 
 1. Contribute via a Dizzle form
-2. Contribute via a GitHub Pull Request
+2. Contribute via a GitHub Issue
+3. Contribute via a Pull Request
 
 ## Dizzle Form
 
