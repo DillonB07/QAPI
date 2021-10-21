@@ -493,7 +493,7 @@ questions = {
     68: {
         'type': 'multi',
         'topic': 'literature',
-        'question': 'Pupaphobia is the feat=r of what?',
+        'question': 'Pupaphobia is the fear of what?',
         'option1': 'Balloons',
         'option2': 'Puppets',
         'option3': 'Moths',
@@ -591,5 +591,281 @@ questions = {
         'option2': 'Metamorphic',
         'option3': 'Sedimentary',
         'answer': 'Sedimentary'
+    },
+    81: {
+        'type': 'multi',
+        'topic': 'science',
+        'question': 'What was the maiden name of Buzz Aldrin\'s mother?',
+        'option1': 'Moon',
+        'option2': 'Mars',
+        'option3': 'Neil',
+        'answer': 'Moon'
+    },
+    82: {
+        'type': 'multi',
+        'topic': 'leisure',
+        'question': 'Which cooking method requires liquid?',
+        'option1': 'Baking',
+        'option2': 'Braising',
+        'option3': 'Grilling',
+        'answer': 'Braising'
+    },
+    83: {
+        'type': 'multi',
+        'topic': 'history',
+        'question': 'Which of these countries was not once part of the Soviet Union?',
+        'option1': 'Armenia',
+        'option2': 'Georgia',
+        'option3': 'Macedonia',
+        'answer': 'Macedonia'
+    },
+    84: {
+        'type': 'true',
+        'topic': 'geography',
+        'question': 'The People\'s Liberation Army of China is the world\'s largest employer.',
+        'answer': 'True'
+    },
+    85: {
+        'type': 'memory',
+        'topic': 'literature',
+        'question': 'Who wrote The Tale of Peter Rabbit?',
+        'answer': 'Beatrix Potter'
+    },
+    86: {
+        'type': 'memory',
+        'topic': 'leisure',
+        'question': 'What is the surname of the European football manager that referred to himself as "the special one"?',
+        'answer': 'Mourinho'
+    },
+    87: {
+        'type': 'multi',
+        'topic': 'science',
+        'question': 'Where would you find the pyramids of Malpighi?',
+        'option1': 'Banks of the Nile',
+        'option2': 'Human body',
+        'option3': 'Steam engine',
+        'answer': 'Human body'
+    },
+    88: {
+        'type': 'memory',
+        'topic': 'leisure',
+        'question': 'Which terrier dog breed and type of pudding are named after a county in England?',
+        'answer': 'Yorkshire'
+    },
+    89: {
+        'type': 'multi',
+        'topic': 'geography',
+        'question': 'In which German city does BMW have its headquarters?',
+        'option1': 'Munich',
+        'option2': 'Hamburg',
+        'option3': 'Berlin',
+        'answer': 'Munich'
+    },
+    90: {
+        'type': 'memory',
+        'topic': 'history',
+        'question': 'What was the name for Britain leaving the European Union?',
+        'answer': 'Brexit',
+    },
+    91: {
+        'type': 'true',
+        'topic': 'history',
+        'question': 'Theresa May was the first female Prime Minister of the UK.',
+        'answer': 'False'
+    },
+    92: {
+        'type': 'true',
+        'topic': 'geography',
+        'question': 'Kruger National Park is located in Singapore.',
+        'answer': 'False'
+    },
+    93: {
+        'type': 'memory',
+        'topic': 'science',
+        'question': 'As of 2005, what was the smallest planet in the solar system?',
+        'answer': 'Pluto'
+    },
+    94: {
+        'type': 'memory',
+        'topic': 'science',
+        'question': 'As of 2008, what was the smallest planet in the solar system?',
+        'answer': 'Mercury'
+    },
+    95: {
+        'type': 'multi',
+        'topic': 'leisure',
+        'question': 'Which of these landmarks does the London Marathon not pass?',
+        'option1': 'Elizabethan Tower',
+        'option2': 'Tower Bridge',
+        'option3': 'Trafalgar Square',
+        'answer': 'Trafalgar Square'
+    },
+    96: {
+        'type': 'memory',
+        'topic': 'entertainment',
+        'question': 'Which British rock group released a debut album named Parachutes?',
+        'answer': 'Coldplay'
+    },
+    97: {
+        'type': 'memory',
+        'topic': 'history',
+        'question': 'What board game was introduced during America\'s Great Depression in the 1930\'s and became wildly popular due to its promise of fame and fortune?',
+        'answer': 'Monopoly'
+    },
+    98: {
+        'type': 'multi',
+        'topic': 'history',
+        'question': 'What was the first opera performed at the Sydney Opera House?',
+        'option1': 'War and Peace',
+        'option2': 'Madame Butterfly',
+        'option3': 'Porgy and the Bess',
+        'answer': 'War and Peace'
+    },
+    99: {
+        'type': 'memory',
+        'topic': 'leisure',
+        'question': 'What do the five Olympic rings represent?',
+        'answer': 'Continents'
+    },
+    100: {
+        'type': 'memory',
+        'topic': 'entertainment',
+        'question': 'In what country was the Lord of the Rings film trilogy shot?',
+        'answer': 'New Zealand'
+    },
+    101: {
+        'type': 'multi',
+        'topic': 'science',
+        'question': 'What is a peanut?',
+        'option1': 'a nut',
+        'option2': 'a legume',
+        'option3': 'a drupe',
+        'answer': 'a legume'
+    },
+    102: {
+        'type': 'memory',
+        'topic': 'leisure',
+        'question': 'What is the world\'s most popular colour according to yougov.co.uk?',
+        'option1': 'Green',
+        'option2': 'Blue',
+        'option3': 'Red',
+        'answer': 'Blue'
+    },
+    103: {
+        'type': 'memory',
+        'topic': 'entertainment',
+        'question': 'What colour is Vine Street in Monopoly?',
+        'answer': 'Orange'
+    },
+    104: {
+        'type': 'memory',
+        'topic': 'science',
+        'question': 'What colour is a baby swan?',
+        'answer': 'Grey'
+    },
+    105: {
+        'type': 'memory',
+        'topic': 'science',
+        'question': 'What colour are the largest stars?',
+        'answer': 'Blue'
+    },
+    106: {
+        'type': 'memory',
+        'topic': 'science',
+        'question': 'There are two species of tuna that have colours in their names. One of them is yellowfin. Name the other.',
+        'answer': 'Bluefin'
+    },
+    107: {
+        'type': 'memory',
+        'topic': 'leisure',
+        'question': 'What is the most popular colour of highlighter?',
+        'answer': 'Yellow'
+    },
+    108: {
+        'type': 'memory',
+        'topic': 'entertainment',
+        'question': 'What was the colour in the name of Strauss\' most famous waltz?',
+        'answer': 'Blue'
+    },
+    109: {
+        'type': 'memory',
+        'topic': 'entertainment',
+        'question': 'What colour is Stitch\'s fur from Lilo and Stitch?',
+        'answer': 'Blue'
+    },
+    110: {
+        'type': 'memory',
+        'topic': 'entertainment',
+        'question': 'Nina sang about 99 balloons. What colour were they?',
+        'answer': 'Red'
+    },
+    111: {
+        'type': 'memory',
+        'topic': 'geography',
+        'question': 'What is the colour of mourning in China?',
+        'answer': 'White'
+    },
+    112: {
+        'type': 'multi',
+        'topic': 'history',
+        'question': 'Which Queen of England died in 1901?',
+        'option1': 'Queen Victoria',
+        'option2': 'Queen Elizabeth',
+        'option3': 'Lady Jane Grey',
+        'answer': 'Queen Victoria'
+    },
+    113: {
+        'type': 'true',
+        'topic': 'literature',
+        'question': 'The Lion, the Witch and the Wardrobe is the first book in the Chronicles of Narnia.',
+        'answer': 'False'
+    },
+    114: {
+        'type': 'true',
+        'topic': 'geography',
+        'question': 'French is the official language of Suriname.',
+        'answer': 'False'
+    },
+    115: {
+        'type': 'true',
+        'topic': 'entertainment',
+        'question': 'John Torode has presented both Masterchef and Junior Masterchef.',
+        'answer': 'True'
+    },
+    116: {
+        'type': 'multi',
+        'topic': 'history',
+        'question': 'Which of tthese US presidents didn\'t have a moustache while in office?',
+        'option1': 'Abraham Lincoln',
+        'option2': 'Ulysses Grant',
+        'option3': 'James Garfield',
+        'answer': 'Abraham Lincoln'
+    },
+    117: {
+        'type': 'memory',
+        'topic': 'entertainment',
+        'question': 'Who sculpted the statue of David and the Pietà?',
+        'answer': 'Michaelangelo'
+    },
+    118: {
+        'type': 'memory',
+        'topic': 'science',
+        'question': 'What aquatic mammal makes its home in a holt?',
+        'answer': 'Otter'
+    },
+    119: {
+        'type': 'multi',
+        'topic': 'leisure',
+        'question': 'Which of these sauces does not contain eggs?',
+        'option1': 'Hollandaise',
+        'option2': 'Vinaigrette',
+        'option3': 'Tartare sauce',
+        'answer': 'Vinaigrette'
+    },
+    120: {
+        'type': 'memory',
+        'topic': 'history',
+        'question': 'What was Nelson\'s flagship called during the Battle of Trafalgar?',
+        'answer': 'HMS Victory'
     }
 }
