@@ -187,7 +187,7 @@ questions = {
         'type': 'number',
         'topic': 'leisure',
         'question':
-        'In a men\'s singles Grand Slam tennis match, how many sets do you have to win to win the match? (Answer as a number)',
+        'In a men\'s singles Grand Slam tennis match, how many sets do you have to win to win the match?',
         'answer': '3'
     },
     27: {
@@ -392,7 +392,7 @@ questions = {
     },
     55: {
         'type': 'multi',
-        'topic': 'lesiure',
+        'topic': 'leisure',
         'question':
         'Which of these sports was removed from the Olympics after 2008?',
         'option1': 'Softball',
@@ -743,7 +743,7 @@ questions = {
         'answer': 'a legume'
     },
     102: {
-        'type': 'memory',
+        'type': 'multi',
         'topic': 'leisure',
         'question': 'What is the world\'s most popular colour according to yougov.co.uk?',
         'option1': 'Green',
@@ -867,5 +867,230 @@ questions = {
         'topic': 'history',
         'question': 'What was Nelson\'s flagship called during the Battle of Trafalgar?',
         'answer': 'HMS Victory'
+    },
+    121: {
+        'type': 'multi',
+        'topic': 'history',
+        'question': 'In Greek mythology, who is the goddess of love?',
+        'option1': 'Athena',
+        'option2': 'Aphrodite',
+        'option3': 'Artemis',
+        'answer': 'Aphrodite'
+    },
+    122: {
+        'type': 'multi',
+        'topic': 'science',
+        'question': 'Which of these is not a noble gas?',
+        'option1': 'Neon',
+        'option2': 'Argon',
+        'option3': 'Nitrogen',
+        'answer': 'Nitrogen'
+    },
+    123: {
+        'type': 'memory',
+        'topic': 'leisure',
+        'question': 'What name is given to an event that is longer than a marathon?',
+        'answer': 'Ultramarathon'
+    },
+    124: {
+        'type': 'memory',
+        'topic': 'geography',
+        'question': 'In which city can you find buildings nicknamed the Gherkin, the Walkie Talkie and the Cheesegrater?',
+        'answer': 'London'
+    },
+    125: {
+        'type': 'memory',
+        'topic': 'literature',
+        'question': 'Which E.B. White character says "People believe almost anything they see in print"?',
+        'answer': 'Charlotte'
+    },
+    126: {
+        'type': 'true',
+        'topic': 'science',
+        'question': 'An albatross can live for more than 50 years.',
+        'answer': 'True'
+    },
+    127: {
+        'type': 'memory',
+        'topic': 'leisure',
+        'question': 'What is the loud plastic horn that was blown by many spectators during the 2010 FIFA World Cup in South Africa?',
+        'answer': 'Vuvuzela'
+    },
+    128: {
+        'type': 'memory',
+        'topic': 'science',
+        'question': 'Cynophobia is the fear of which animal?',
+        'answer': 'Dog'
+    },
+    129: {
+        'type': 'memory',
+        'topic': 'geography',
+        'question': 'What European Capital city is Nyhavn found in?',
+        'answer': 'Copenhagen'
+    },
+    130: {
+        'type': 'true',
+        'topic': 'science',
+        'question': 'The first day of the 21st century was January 1st 2000.',
+        'answer': 'False'
+    },
+    131: {
+        'type': 'memory',
+        'topic': 'science',
+        'question': 'The lion\'s mane is the largest known species of which animal?',
+        'answer': 'Jellyfish'
+    }, 
+    132: {
+        'type': 'multi',
+        'topic': 'leisure',
+        'question': 'Which is not part of a biathlon?',
+        'option1': 'Swimming',
+        'option2': 'Skiing',
+        'option3': 'Shooting',
+        'answer': 'Swimming'
+    },
+    133: {
+        'type': 'memory',
+        'topic': 'science',
+        'question': 'Dry ice, used extensively as a cooling agent, is the solid form of which gas?',
+        'answer': 'Carbon Dioxide'
+    },
+    134: {
+        'type': 'memory',
+        'topic': 'geography',
+        'question': 'Barchan, star and parabolic are al examples of which type of coastal feature?',
+        'answer': 'Sand dune'
+    },
+    135: {
+        'type': 'memory',
+        'topic': 'history',
+        'question': 'Genghis Khan founded and led which country\'s empire until his death in 1227?',
+        'answer': 'Mongol'
+    },
+    136: {
+        'type': 'memory',
+        'topic': 'history',
+        'question': 'Which mythological character fell in love with his own reflection?',
+        'answer': 'Narcissus'
+    },
+    137: {
+        'type': 'multi',
+        'topic': 'leisure',
+        'question': 'What is the name of the tallest fence jumped in the Grand National?',
+        'option1': 'The Fence',
+        'option2': 'The Chair',
+        'option3': 'The Hurdle',
+        'answer': 'The Chair'
+    },
+    138: {
+        'type': 'true',
+        'topic': 'geography',
+        'question': 'Uluru is the largest rock in the world.',
+        'answer': 'True'
+    },
+    139: {
+        'type': 'true',
+        'topic': 'science',
+        'question': 'The kiwi fruit is originally from New Zealand',
+        'answer': 'False'
+    },
+    140: {
+        'type': 'multi',
+        'topic': 'leisure',
+        'question': 'As of 2014, which tennis player had won 17 Grand Slam singles titles?',
+        'option1': 'Rafeal Nadal',
+        'option2': 'Pete Sampras',
+        'option3': 'Roger Federer',
+        'answer': 'Roger Federer'
+    },
+    141: {
+        'type': 'multi',
+        'topic': 'geography',
+        'question': 'Which country is divided into areas called prefectures?',
+        'option1': 'Canada',
+        'option2': 'Russia',
+        'option3': 'Japan',
+        'answer': 'Japan'
+    },
+    142: {
+        'type': 'true',
+        'topic': 'science',
+        'question': 'Monday is the most common day of the week for a heart attack to occur.',
+        'answer': 'True'
+    },
+    143: {
+        'type': 'true',
+        'topic': 'leisure',
+        'question': 'Anchovy is a base ingredient in the original Worcestershire Sauce recipe.',
+        'answer': 'True'
+    },
+    144: {
+        'type': 'memory',
+        'topic': 'technology',
+        'question': 'In 2014, the video of which song became the first video to reach two billion views on YouTube?',
+        'answer': 'Gangnam Style'
+    },
+    145: {
+        'type': 'number',
+        'topic': 'geography',
+        'question': 'How many golf balls are there on the moon?',
+        'answer': '3'
+    },
+    146: {
+        'type': 'memory',
+        'topic': 'entertainment',
+        'question': 'Which actor, who also starred in Titanic, played Dom Cobb in the 2010 film Inception?',
+        'answer': 'Leonardo DiCaprio'
+    },
+    147: {
+        'type': 'multi',
+        'topic': 'leisure',
+        'question': 'Why do surfers wax their boards?',
+        'option1': 'Streamline the board',
+        'option2': 'Make the board shiny',
+        'option3': 'Improve the grip',
+        'answer': 'Improve the grip'
+    },
+    148: {
+        'type': 'memory',
+        'topic': 'history',
+        'question': 'Which sign of the zodiac is symbolised by twins?',
+        'answer': 'Gemini'
+    },
+    149: {
+        'type': 'memory',
+        'topic': 'entertainment',
+        'question': 'Whose nose grew longer every time that he lied?',
+        'answer': 'Pinnochio'
+    },
+    150: {
+        'type': 'memory',
+        'topic': 'science',
+        'question': 'Americans call this vegetable an eggplant. What is it called in the UK?',
+        'answer': 'Aubergine'
+    },
+    151: {
+        'type': 'memory',
+        'topic': 'geography',
+        'question': 'The boat race takes place between crews from Oxford and which other UK university',
+        'answer': 'Cambridge'
+    },
+    152: {
+        'type': 'memory',
+        'topic': 'geography',
+        'question': 'What colour are the stars on the American flag?',
+        'answer': 'White',
+    },
+    153: {
+        'type': 'memory',
+        'topic': 'literature',
+        'question': 'According to Dr. Seuss, who stole Christmas?',
+        'answer': 'The Grinch'
+    },
+    154: {
+        'type': 'number',
+        'topic': 'geography',
+        'question': 'How many states are there in the USA?',
+        'answer': '50'
     }
 }
