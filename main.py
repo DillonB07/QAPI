@@ -5,6 +5,11 @@ import random
 app = FastAPI()
 
 
+@app.get('/')
+def index():
+    return 'Hello! For QAPI documentation, please visit https://qapi.ml'
+
+
 @app.get('/random-question')
 def random_question():
     length = len(questions.keys())

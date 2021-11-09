@@ -1092,5 +1092,26 @@ questions = {
         'topic': 'geography',
         'question': 'How many states are there in the USA?',
         'answer': '50'
+    },
+    155: {
+        'type': 'number',
+        'topic': 'geography',
+        'question': 'How many oceans are there?',
+        'answer': '5'
+    },
+    156: {
+        'type': 'number',
+        'topic': 'geography',
+        'question': 'How many continents are there?',
+        'answer': '7'
+    },
+    157: {
+        'type': 'memory',
+        'topic': 'technology',
+        'question': 'Which of these is not a real programming language?',
+        'option1': 'Coffeescript',
+        'option2': 'Cobra',
+        'option3': 'BASIC',
+        'answer': 'Cobra'
     }
 }
