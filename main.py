@@ -9,6 +9,15 @@ app = FastAPI()
 def index():
     return 'Hello! For QAPI documentation, please visit https://qapi.ml'
 
+@app.get('/question')
+def question_by_id(id: int):
+    for question in questions.values():
+        if question['id'] == str(id):
+            return question
+
+    raise HTTPException(status_code=status.HTTP_404_NOT_FOUND,
+                            detail='Question not found')
+
 
 @app.get('/random-question')
 def random_question():
