@@ -55,8 +55,7 @@ def random_question_in_topic(topic: str):
             topic_questions.append(question)
 
     if topic_found:
-        question = random.choice(topic_questions)
-        return question
+        return random.choice(topic_questions)
     else:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND,
                             detail='Topic not found')
@@ -90,8 +89,7 @@ def random_type_question(type: str):
             type_questions.append(question)
 
     if type_found:
-        question = random.choice(type_questions)
-        return question
+        return random.choice(type_questions)
     else:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND,
                             detail='Type not found')
@@ -101,11 +99,7 @@ def random_type_question(type: str):
 
 @app.get('/statistics/total')
 def total_questions():
-    number = 0
-    for question in questions:
-        number += 1
-
-    return number
+    return sum(1 for _ in questions)
 
 
 @app.get('/statistics/type/{question_type}')
