@@ -1270,5 +1270,12 @@ questions = {
         'option2': 'Cobra',
         'option3': 'BASIC',
         'answer': 'Cobra'
+    },
+    158: {
+        'id': '158',
+        'type': 'number',
+        'topic': 'geography',
+        'question': 'How many countries are in the world?',
+        'answer': '195'
     }
 }
