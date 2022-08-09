@@ -1263,7 +1263,7 @@ questions = {
     },
     157: {
         'id': '157',
-        'type': 'memory',
+        'type': 'multi',
         'topic': 'technology',
         'question': 'Which of these is not a real programming language?',
         'option1': 'Coffeescript',
